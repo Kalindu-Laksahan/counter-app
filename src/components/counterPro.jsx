@@ -20,7 +20,7 @@ class CounterPro extends Component {
         return (
             //to double select CTRL+D
         <div>
-            //conditional rendering
+            
             {this.state.tags.length === 0 && 'Please create a new tag!'}
             {this.renderTags()}
         </div>

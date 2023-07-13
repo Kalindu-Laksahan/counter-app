@@ -9,5 +9,5 @@ import CounterPro from './components/counterPro';
 
 
 ReactDOM.render(<Counter />,document.getElementById('root'));
-reportWebVitals();  //unregister()
+reportWebVitals();  
 
